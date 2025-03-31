@@ -1,4 +1,4 @@
-# 信呼OA办公系统后台uploadAction存在SQL注入
+# 信呼OA办公系统后台api.php接口存在RCE
 
 信呼OA办公系统是一个开源的在线办公系统。 信呼OA办公系统uploadAction存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。
 
