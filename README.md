@@ -202,7 +202,7 @@
 - [用友NC-process存在SQL注入漏洞](./wpoc/用友OA/用友NC-process存在SQL注入漏洞.md)
 - [用友U8-CRM系统getufvouchdata.php存在SQL注入漏洞](./wpoc/用友OA/用友U8-CRM系统getufvouchdata.php存在SQL注入漏洞.md)
 - [用友U8-CRM系统ajaxgetborrowdata.php存在SQL注入漏洞](./wpoc/用友OA/用友U8-CRM系统ajaxgetborrowdata.php存在SQL注入漏洞.md)
-- [信呼OA办公系统后台uploadAction存在SQL注入](./wpoc/信呼OA/信呼OA办公系统后台uploadAction存在SQL注入.md)
+- [信呼OA办公系统后台api.php接口存在RCE](./wpoc/信呼OA/信呼OA办公系统后台api.php接口存在RCE.md)
 - [海信智能公交企业管理系统AdjustWorkHours.aspx存在SQL注入漏洞](./wpoc/海信/海信智能公交企业管理系统AdjustWorkHours.aspx存在SQL注入漏洞.md)
 - [圣乔ERP系统login.action存在Struts2远程代码执行漏洞](./wpoc/圣乔ERP/圣乔ERP系统login.action存在Struts2远程代码执行漏洞.md)
 - [顺景ERP系统GetFile任意文件读取漏洞](./wpoc/顺景ERP/顺景ERP系统GetFile任意文件读取漏洞.md)
