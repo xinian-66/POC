@@ -40,7 +40,7 @@ sec-ch-ua-platform: "Windows"
 
 ## 第三步
 ```
-通过前面第二部获取的地址直接访问即可
+通过前面第二步获取的地址直接访问即可
 http://localhost/upload/2025-03/26_rocktpl5661_1363.php
 ```
 
