@@ -9,7 +9,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025.03.31
-- [CVE-2025-30208任意文件读取](./wpoc/Vite开发服务器/CVE-2025-30208任意文件读取.md)
+- [Vite开发服务器任意文件读取漏洞(CVE-2025-30208)](./wpoc/Vite开发服务器/Vite开发服务器任意文件读取漏洞(CVE-2025-30208).md)
 
 # 2025.03.24 新增漏洞
 - [安恒明御安全网关aaa_local_web_custom_auth_html_submit存在远程命令执行漏洞](./wpoc/安恒/安恒明御安全网关/安恒明御安全网关aaa_local_web_custom_auth_html_submit存在远程命令执行漏洞.md)
