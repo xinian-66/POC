@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/a2b045ed-2231-47ff-87f9-d325fe73157d)
 
 # 漏洞收集
-收集整理漏洞EXP/POC，大部分漏洞来源网络
+收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025.03.31
 - [KUBERNETES INGRESS-NGINX远程代码执行漏洞(CVE-2025-1974)](./wpoc/KUBERNETES%20INGRESS-NGINX/KUBERNETES%20INGRESS-NGINX远程代码执行漏洞(CVE-2025-1974).md)
