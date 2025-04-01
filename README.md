@@ -7,7 +7,7 @@
 
 开源维护不易，有钱的大哥，可以请我们喝杯咖啡清醒清醒ᕙ(• ॒ ູ•)ᕘ
 
-![8a38c76cfc490a58e99e7066e9e4af0](https://github.com/user-attachments/assets/23a3a90f-d4c2-4739-8d23-d1f29c9d2a1b)
+![image](https://github.com/user-attachments/assets/b1b5f1c0-bf6d-4934-bc66-6d616e7d90be)
 
 
 # 漏洞收集
