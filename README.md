@@ -5,6 +5,11 @@
 
 ![image](https://github.com/user-attachments/assets/a2b045ed-2231-47ff-87f9-d325fe73157d)
 
+开源维护不易，有钱的大哥，可以请我们喝杯咖啡清醒清醒ᕙ(• ॒ ູ•)ᕘ
+
+![8a38c76cfc490a58e99e7066e9e4af0](https://github.com/user-attachments/assets/23a3a90f-d4c2-4739-8d23-d1f29c9d2a1b)
+
+
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
