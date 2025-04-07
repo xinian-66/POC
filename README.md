@@ -14,6 +14,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-07
+- [WordPress (User Registration & Membership) Plugin权限提升漏洞(CVE-2025-2563)](./wpoc/WordPress/WordPress%20(User%20Registration%20&%20Membership)%20Plugin权限提升漏洞(CVE-2025-2563).md)
 - [信呼OA办公系统前台index.php存在SQL注入漏洞](./wpoc/信呼OA/信呼OA办公系统前台index.php存在SQL注入漏洞.md)
 
 # 2025.03.31
