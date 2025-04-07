@@ -13,6 +13,9 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
+# 2025-04-07
+- [信呼OA办公系统前台index.php存在SQL注入漏洞](./wpoc/信呼OA/信呼OA办公系统前台index.php存在SQL注入漏洞.md)
+
 # 2025.03.31
 - [KUBERNETES INGRESS-NGINX远程代码执行漏洞(CVE-2025-1974)](./wpoc/KUBERNETES%20INGRESS-NGINX/KUBERNETES%20INGRESS-NGINX远程代码执行漏洞(CVE-2025-1974).md)
 - [CrushFTP身份验证绕过(CVE-2025-2825)](./wpoc/CrushFTP/CrushFTP身份验证绕过(CVE-2025-2825).md)
