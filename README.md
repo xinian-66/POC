@@ -14,6 +14,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-07
+- [WordPress Newsletters Plugin存在SQL漏洞(CVE-2025-30921)](./wpoc/WordPress/WordPress%20Newsletters%20Plugin存在SQL漏洞(CVE-2025-30921).md)
 - [Next中间件绕过漏洞(CVE-2025-29927)](./wpoc/Next/Next中间件绕过漏洞(CVE-2025-29927).md)
 - [WordPress (User Registration & Membership) Plugin权限提升漏洞(CVE-2025-2563)](./wpoc/WordPress/WordPress%20(User%20Registration%20&%20Membership)%20Plugin权限提升漏洞(CVE-2025-2563).md)
 - [信呼OA办公系统前台index.php存在SQL注入漏洞](./wpoc/信呼OA/信呼OA办公系统前台index.php存在SQL注入漏洞.md)
