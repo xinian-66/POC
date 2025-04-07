@@ -1,4 +1,4 @@
-# 信呼OA系统index存在SQL注入漏洞
+# 信呼OA办公系统前台index.php存在SQL注入漏洞
 
 
 
