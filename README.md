@@ -14,6 +14,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-21 新增漏洞
+- [WordPress SureTriggers Plugin存在身份验证绕过漏洞(CVE-2025-3102)](./wpoc/WordPress/WordPress%20SureTriggers%20Plugin存在身份验证绕过漏洞(CVE-2025-3102).md)
 - [任我行协同CRM普及版viewaccountBase存在SQL注入漏洞](./wpoc/任我行/任我行协同CRM普及版viewaccountBase存在SQL注入漏洞.md)
 - [CRMEB开源电商系统orderlist存在SQL注入漏洞](./wpoc/CRMEB/CRMEB开源电商系统orderlist存在SQL注入漏洞.md)
 - [世邦通信SPON-IP网络对讲广播系统videobacktrackpush.php任意文件上传漏洞](./wpoc/世邦通信/世邦通信SPON-IP网络对讲广播系统videobacktrackpush.php任意文件上传漏洞.md)
