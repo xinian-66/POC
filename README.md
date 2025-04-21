@@ -14,6 +14,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-21 新增漏洞
+- [万户 ezOFFICE DocumentHistory.jsp SQL注入](./wpoc/万户OA/万户%20ezOFFICE%20DocumentHistory.jsp%20SQL注入.md)
 - [要塞T3系统接口Ajax_CheckMobileRepeat存在SQL注入漏洞](./wpoc/要塞T3管理系统/要塞T3系统接口Ajax_CheckMobileRepeat存在SQL注入漏洞.md)
 - [用友U8-CRM系统接口eventseteventsetlist.php存在SQL注入](./wpoc/用友OA/用友U8-CRM系统接口eventseteventsetlist.php存在SQL注入.md)
 - [天闻数媒名师工作室系统fileTempDownload任意文件读取](./wpoc/天闻数媒名师工作室系统/天闻数媒名师工作室系统fileTempDownload任意文件读取.md)
