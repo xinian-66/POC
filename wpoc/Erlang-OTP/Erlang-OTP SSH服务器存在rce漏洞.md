@@ -130,4 +130,6 @@ try:
 except Exception as e:
     print(f"[!] Error: {e}")
 ```
+![image](https://github.com/user-attachments/assets/563069d6-8f47-4989-a3ef-5e8b9dd971c0)
+
 漏洞原文：https://github.com/ProDefense/CVE-2025-32433
