@@ -1,6 +1,6 @@
-## 万户 ezOFFICE selectAmountField .jsp SQL注入
+## 万户 ezOFFICE selectAmountField.jsp SQL注入
 
-DocumentHistory.jsp接口处存在sql注入漏洞，攻击者可获取数据库中敏感信息
+selectAmountField .jsp接口处存在sql注入漏洞，攻击者可获取数据库中敏感信息
 
 ## fofa
 ```
