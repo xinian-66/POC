@@ -14,6 +14,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-21 新增漏洞
+- [GNU Mailman目录遍历漏洞(CVE-2025-43919)](./wpoc/GNU%20Mailman/GNU%20Mailman目录遍历漏洞(CVE-2025-43919).md)
 - [Erlang-OTP SSH服务器存在rce漏洞](./wpoc/Erlang-OTP/Erlang-OTP%20SSH服务器存在rce漏洞.md)
 - [WordPress SureTriggers Plugin存在身份验证绕过漏洞(CVE-2025-3102)](./wpoc/WordPress/WordPress%20SureTriggers%20Plugin存在身份验证绕过漏洞(CVE-2025-3102).md)
 - [任我行协同CRM普及版viewaccountBase存在SQL注入漏洞](./wpoc/任我行/任我行协同CRM普及版viewaccountBase存在SQL注入漏洞.md)
