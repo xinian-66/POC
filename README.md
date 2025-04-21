@@ -14,6 +14,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-21 新增漏洞
+- [世邦通信SPON-IP网络对讲广播系统videobacktrackpush.php任意文件上传漏洞](./wpoc/世邦通信/世邦通信SPON-IP网络对讲广播系统videobacktrackpush.php任意文件上传漏洞.md)
 - [NetMizer日志管理系统hostipreport接口存在RCE漏洞](./wpoc/NetMizer/NetMizer日志管理系统hostipreport接口存在RCE漏洞.md)
 - [宏景eHR人力资源管理系统接口searchCreatPlanList存在SQL注入漏洞](./wpoc/宏景OA/宏景eHR人力资源管理系统接口searchCreatPlanList存在SQL注入漏洞.md)
 - [深澜计费管理系统down-load存在任意文件读取漏洞](./wpoc/深澜计费管理系统/深澜计费管理系统down-load存在任意文件读取漏洞.md)
