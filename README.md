@@ -14,6 +14,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-21 新增漏洞
+- [天闻数媒名师工作室系统fileTempDownload任意文件读取](./wpoc/天闻数媒名师工作室系统/天闻数媒名师工作室系统fileTempDownload任意文件读取.md)
 - [龙腾码支付payservicecurl任意文件读取](./wpoc/龙腾码支付/龙腾码支付payservicecurl任意文件读取.md)
 - [时空智友企业流程化管控系统indexService.notice存在sql注入漏洞](./wpoc/时空智友/时空智友企业流程化管控系统indexService.notice存在sql注入漏洞.md)
 
