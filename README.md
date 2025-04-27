@@ -13,7 +13,8 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-04-28
-- [FOXCMS黔狐内容管理系统_远程代码执行漏洞(CVE-2025-29306)](./wpoc/FOXCMS黔狐内容管理系统/FOXCMS黔狐内容管理系统_远程代码执行漏洞(CVE-2025-29306).md#foxcms黔狐内容管理系统_远程代码执行漏洞cve-2025-29306)
+- [Langflow框架远程命令执行漏洞(CVE-2025-3248)](./wpoc/Langflow框架/Langflow框架远程命令执行漏洞(CVE-2025-3248).md)
+- [FOXCMS黔狐内容管理系统_远程代码执行漏洞(CVE-2025-29306)](./wpoc/FOXCMS黔狐内容管理系统/FOXCMS黔狐内容管理系统_远程代码执行漏洞(CVE-2025-29306).md)
 
 # 2025-04-21 新增漏洞
 - [GNU Mailman目录遍历漏洞(CVE-2025-43919)](./wpoc/GNU%20Mailman/GNU%20Mailman目录遍历漏洞(CVE-2025-43919).md)
