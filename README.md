@@ -12,7 +12,8 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
-# 2025-05-09
+# 2025-06-11
+- [Salia PLCC cPH2 远程命令执行漏洞](./wpoc/Salia/Salia%20PLCC%20cPH2%20远程命令执行漏洞.md)
 - [Supermap iServer任意文件读取漏洞](./wpoc/Supermap%20iServer/Supermap%20iServer任意文件读取漏洞.md)
 
 # 2025-04-28
