@@ -13,6 +13,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-06-11
+- [礼品卡电子券收卡系统parent_id存在前台存在SQL注入](./wpoc/礼品卡电子券收卡系统/礼品卡电子券收卡系统parent_id存在前台存在SQL注入.md)
 - [NetMizer日志管理系统terminals接口存在SQL注入](./wpoc/NetMizer/NetMizer日志管理系统terminals接口存在SQL注入.md)
 - [数夫CRM接口file_download存在任意文件读取](./wpoc/数夫CRM/数夫CRM接口file_download存在任意文件读取.md)
 - [银达汇智智慧综合管理平台PPlugList接口存在SQL注入](./wpoc/银达汇智智慧综合管理平台/银达汇智智慧综合管理平台PPlugList接口存在SQL注入.md)
