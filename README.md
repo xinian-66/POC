@@ -13,6 +13,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-06-11
+- [金和OA-C6系统接口ActionDataSet存在XXE漏洞](./wpoc/金和OA/金和OA-C6系统接口ActionDataSet存在XXE漏洞.md)
 - [灵当CRM系统接口Playforrecord接口处存在任意文件读取漏洞](.//wpoc/灵当CRM/灵当CRM系统接口Playforrecord接口处存在任意文件读取漏洞.md)
 - [原创先锋后台管理admin_list存在未授权访问](./wpoc/原创先锋后台管理/原创先锋后台管理admin_list存在未授权访问.md)
 - [礼品卡电子券收卡系统parent_id存在前台存在SQL注入](./wpoc/礼品卡电子券收卡系统/礼品卡电子券收卡系统parent_id存在前台存在SQL注入.md)
