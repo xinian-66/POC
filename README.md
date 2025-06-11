@@ -13,6 +13,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-06-11
+- [银达汇智智慧综合管理平台PPlugList接口存在SQL注入](./wpoc/银达汇智智慧综合管理平台/银达汇智智慧综合管理平台PPlugList接口存在SQL注入.md)
 - [WordPress Madara存在本地文件包含(CVE-2025-4524)](./wpoc/WordPress/WordPress%20Madara存在本地文件包含(CVE-2025-4524).md)
 - [Pichome接口index存在任意文件读取(CVE-2025-1743)](./wpoc/Pichome/Pichome接口index存在任意文件读取(CVE-2025-1743).md)
 - [PagerMaid-Pyro后台管理系统run_sh接口存在未授权命令执行漏洞](./wpoc/PagerMaid-Pyro后台管理系统/PagerMaid-Pyro后台管理系统run_sh接口存在未授权命令执行漏洞.md)
