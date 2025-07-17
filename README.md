@@ -6,7 +6,9 @@
 
 欢迎各位师傅加入交流群一起交流，公众号：深潜sec安全团队，（群满需要邀请加入，可以加本人微信）
 
-![image](https://github.com/user-attachments/assets/a2b045ed-2231-47ff-87f9-d325fe73157d)
+![937ee21fe681c87fa73892d3448671b9](https://github.com/user-attachments/assets/4ac3e18b-f5b2-4315-b740-7cfcbdbe658b)
+
+
 
 
 # 漏洞收集
